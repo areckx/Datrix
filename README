@@ -1,0 +1,15 @@
+Trixx 
+=====
+Description: A Tetris clone using the SDL library
+
+
+In this tutorial you will learn:
+
+[] How to store the pieces and board using matrices (multidimensional arrays)
+
+[] How to solve the roation problem in tetris, in a really easy way, without using complex math
+
+[] How to check collisions between the pieces and the board
+
+[] How the main loop of a tetris game works
+
